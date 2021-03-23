@@ -126,3 +126,8 @@ table {
 input:focus {
   outline: none;
 }
+
+a {
+  color: inheret;
+  text-decoration: none;
+}
