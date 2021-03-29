@@ -18,3 +18,7 @@
 .friends-screen {
   padding: 0px var(--horizontal-space);
 }
+
+#chat-screen .status-bar {
+  z-index: 2;
+}
